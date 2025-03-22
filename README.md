@@ -6,11 +6,11 @@ This program is distributed in the hope that it will be useful, but **WITHOUT AN
 
 ## System Requirements
 
-- Windows 2000 SP4 / Windows XP / Windows Server 2003 / Windows Vista
+- Windows 2000 SP4 / Windows XP / Windows Server 2003 / Windows Vista / Windows 8 / Windows 10 / Windows 11
 - Microsoft .NET Framework 2.0 for versions up to 0.10.0.0
-- Microsoft .NET Framework 3.5 for later versions
+- Microsoft .NET Framework 4.7.2 for versions from 0.10.1.0
 
-The binary distributions up to 0.10.0.0 were compiled using Microsoft Visual C# 2005 Express Edition. Later binary distributions were compiled using Microsoft Visual C# 2008 Express Edition.
+The binary distributions up to 0.10.0.0 were compiled using Microsoft Visual C# 2005 Express Edition. Later binary distributions were compiled using Microsoft Visual Studio Community 2022.
 
 ## Contact
 
@@ -18,7 +18,12 @@ If you have any questions, recommendations, or comments about KeyCounter, feel f
 
 ## Changelog
 
-### 0.10.1.0 2008-03-24
+### 0.10.1.0 2025-03-22
+- Target framework changed to .net 4.7.2
+- Project reorganization and update to VS Community Edition 2022
+- Move project from Sourceforge to Github
+
+### 0.10.0.1 2008-03-24
 - Target framework changed to .NET 3.5, Visual C# 2008
 - Fixed copyright notice in about box: no copyright for editors in GPL licensed software!
 

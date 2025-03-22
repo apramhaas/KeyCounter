@@ -11,7 +11,7 @@ using System.Resources;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("KeyCounter")]
-[assembly: AssemblyCopyright("Leitner, Pramhaas 2007-2008")]
+[assembly: AssemblyCopyright("Leitner, Pramhaas 2007-2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -30,8 +30,8 @@ using System.Resources;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("0.10.0.1")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.10.1.0")]
+[assembly: AssemblyFileVersion("0.10.1.0")]
 
 [assembly: AssemblyCompileInformation()]
 [assembly: NeutralResourcesLanguageAttribute("")]
